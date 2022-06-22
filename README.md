@@ -1,3 +1,3 @@
 # 
-development environment 
-venv flask ngrok
+development environment :
+venv, flask, ngrok
