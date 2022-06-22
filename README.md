@@ -1,2 +1,3 @@
 # 
-development environment
+development environment 
+venv flask ngrok
