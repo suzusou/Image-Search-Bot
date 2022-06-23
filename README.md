@@ -22,7 +22,7 @@ The library installation is now complete.
 
 Next, install ngrok.  
 You can download it here.↓  
-https://ngrok.com/download   　
+https://ngrok.com/download     　
 Select the OS you are using.  
 Extract the installed zip file.  
 Please enter this sentence in the command  
