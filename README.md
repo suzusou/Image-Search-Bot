@@ -1,16 +1,16 @@
 # 
 development environment :python3, venv, flask, ngrok  
-Enter the letters you want to search for and the bot will return an image!
-First, create your own linebot.
-For instructions on how to make them, please refer to this site.
-https://udemy.benesse.co.jp/development/app/line-bot-making.html
+Enter the letters you want to search for and the bot will return an image!  
+First, create your own linebot.  
+For instructions on how to make them, please refer to this site.  
+https://udemy.benesse.co.jp/development/app/line-bot-making.html  
 
-How to use venv
-Please enter this sentence in the command
-python3(py) -m venv environment Name  ← anything is OK
-environment Name\Scripts\activate.bat
-Now you are ready for venv!
-Reference Site↓
+How to use venv  
+Please enter this sentence in the command  
+python3(py) -m venv environment Name  ← anything is OK  
+environment Name\Scripts\activate.bat  
+Now you are ready for venv!  
+Reference Site↓  
 https://www.python.jp/install/windows/venv.html
 
 Next,install the necessary libraries.
