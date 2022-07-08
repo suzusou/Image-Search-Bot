@@ -33,3 +33,4 @@ This completes the ngrok setup.
 
 #### execution method: flask run  
 Enter the letters of the image you wish to search for and the image will be returned.
+#### If you found this helpful, please give us a star.
