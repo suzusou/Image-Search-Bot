@@ -8,7 +8,7 @@ Enter the letters you want to search for and the bot will return an image!
 ## How to create an ImageSearchBot
 development environment :`python3`, `venv`, `flask`, `ngrok`.  
 
-## First, create your own linebot.  
+## Create your own linebot  
 For instructions on how to make them, please refer to this site.  
 https://udemy.benesse.co.jp/development/app/line-bot-making.html  
 
@@ -25,7 +25,7 @@ Now you are ready for venv!
 Reference Site↓  
 https://www.python.jp/install/windows/venv.html
 
-## Next,install the necessary libraries.  
+## Install the necessary libraries.  
 Please enter this sentence in the command.
 ```
 pip install line-bot-sdk  
@@ -39,7 +39,7 @@ pip install beautifulsoup4
 
 The library installation is now complete.  
 
-## Next, install ngrok.  
+## Install ngrok.  
 You can download it here.↓  
 https://ngrok.com/download  
 
@@ -55,7 +55,7 @@ ngrok http 5000
 Paste the https URL into your own linedevelopers webhook settings  
 This completes the ngrok setup.  
 
-## execution method
+## Execution method
 ```
  flask run  
 ``` 
