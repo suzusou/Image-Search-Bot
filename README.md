@@ -8,7 +8,7 @@ Enter the letters you want to search for and the bot will return an image!
 ## How to create an ImageSearchBot
 development environment :`python3`, `venv`, `flask`, `ngrok`.  
 
-## Create your own linebot  
+## Create your own LINE Bot  
 For instructions on how to make them, please refer to this site.  
 https://udemy.benesse.co.jp/development/app/line-bot-making.html  
 
@@ -25,7 +25,7 @@ Now you are ready for venv!
 Reference Site↓  
 https://www.python.jp/install/windows/venv.html
 
-## Install the necessary libraries.  
+## Install the necessary libraries  
 Please enter this sentence in the command.
 ```
 pip install line-bot-sdk  
