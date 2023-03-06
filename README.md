@@ -39,7 +39,7 @@ pip install beautifulsoup4
 
 The library installation is now complete.  
 
-## Install ngrok.  
+## Install ngrok  
 You can download it here.↓  
 https://ngrok.com/download  
 
